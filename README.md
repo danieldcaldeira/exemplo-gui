@@ -1,5 +1,7 @@
 # README
 
+Exemplo de ateração de fonte na aula de engenharia de software 2017-05-15.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
